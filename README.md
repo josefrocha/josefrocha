@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi! I'm José Fernando!</h1>
 
-<!--
-**josefrocha/josefrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm 15 years old and I'm a programming enthusiast.</p>
+<p>At the moment my focus is back-end studies, I want to become a full-stack developer and I need a lot of study to do so.</p>
+<p>I have some front-end knowledge.</p>
 
-Here are some ideas to get you started:
+ ----
+<ul>
+  <h3>Technologys:</h3>
+  <li>HTML, CSS, JavaScript, React and Tailwind.</li>
+  <li>Golang <code>learning</code> and Node.js</li>
+  <li>MongoDB, PostgreSQL <code>learning</code> </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Contact me by:</h4>
+
+- [Discord](https://discord.com/users/852615181669892136)
